@@ -1,0 +1,165 @@
+body {
+  background-color: rgb(191, 217, 226);
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 1050px;
+  min-width: 150px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+h1 {
+  color: #062ea9;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  font-weight: bold;
+  font-size: 60px;
+  text-align: center;
+}
+
+main {
+  padding:1em;
+}
+
+nav {
+  background-color: rgb(36, 99, 209);
+  margin: 0;
+  padding: 6px;
+}
+
+nav ul {
+  display: flex;
+  flex-direction: row;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+nav li {
+  list-style: none;
+  padding: 10px;
+  margin: 0;
+  flex-grow:1;
+}
+
+nav li a {
+  padding: 10px;
+  font-size: 14pt;
+  font-weight: bold;
+  color: rgb(251, 251, 251);
+}
+
+nav li a:hover {
+  color: #15b3fc;
+  background-color: #050c33;
+}
+
+h2 {
+  color: #224972;
+  font-size: 35px;
+  font-weight: bold;
+  margin-top:50px;
+}
+
+h3 {
+  color: #224972;
+  font-weight: bold;
+  margin-top:35px;
+}
+
+#hello {
+  font-weight: bold;
+  font-size: 25px;
+}
+
+#hi2 {
+  color: #224972;
+  font-size: 35px;
+  font-weight: bold;
+  margin-top:10px;
+}
+
+#myphoto {
+  float: left;
+  margin-right: 10px;
+}
+
+.myinfo {
+  padding-left: 0.5em;
+}
+
+.myinfo2 {
+  margin-top:50px;
+  margin-left: 520px;
+  padding-left: 0.5em;
+  border-left:3px solid rgb(22, 156, 200)
+}
+
+
+.experience {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.timeloc {
+  font-style: italic;
+}
+
+.project{
+  font-family: monaco, Consolas, "Lucida Console", monospace;
+  font-size: 14px;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-grow:1;
+}
+
+.block {
+  margin: 10px;
+  padding: 10px;
+  flex: 1;
+  border: 2px dotted blue;
+}
+
+.start{
+  margin-top:35px;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.lonely {
+  display: block;
+  margin: 0 auto;
+}
+
+.contact {
+  text-align: center;
+}
+p {
+  color: black;
+}
+
+em {
+  font-style: normal; /* removes italics */
+  font-weight: bold; /* adds bold */
+}
+
+li {
+  color: black;
+}
+
+footer {
+  margin: 10px;
+  padding: 10px;
+  border-top:1.5px solid black;
+  font-style:italic;
+  font-size: 13px;
+}
+
+img {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
