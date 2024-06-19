@@ -28,7 +28,8 @@
         <section>
             <h2>Software Projects:</h2>
             <h3>1. Alien Shooting Flash Game</h3>
-            <p class="project">This project is a game that allows the space ship to shoot the aliens. </p>
+            <p class="project">This project is a game written by python and pygame that allows the space ship to shoot
+                the aliens. </p>
             <p class="project">What we are supposed to create, is a game that includes one player, which is shown as a
                 spaceship in the game
                 There is going to be a group of aliens, alinged in a group, and they are the enemies that we will need
@@ -53,9 +54,20 @@
             <br>
             <br>
             <h3>2. LTL interpreter</h3>
+            <p class="project">This project is a interpreter written by Ocaml that transfers a natural language that
+                follows LTL rules into an automata graph. </p>
+            <p class="project">This is a tool that can translate everyday language into something a machine understands.
+                LTL logic, which is the Linear Temporal Language (LTL) will be transformed into Büchi Automata.</p>
+
+            <p class="project">This converter takes in strictly-formatted human language, parses and synthesizes it into
+                a simplified Linear Temporal Logic expression, and converts it into a reliable Büchi automaton that is
+                visualized and verifiable. With the automaton being generated, the user is able to verify if their
+                subsequent tentative actions is executable.</p>
             <p class="project">Github: <a
                     href="https://github.coecis.cornell.edu/jnl77/CS3110-Final-Project">Interpreter</a>
             </p>
+
+            <img class="lonely" src="images/buchi.png" alt="LTL to buchi"><br>
         </section>
 
 
@@ -63,14 +75,49 @@
             <h2>Electrical projects:</h2>
 
             <h3>1. Tide Clock </h3>
+            <p class="project">
+                In general, our system works by sending tidal data from the FRDM-KL46Z board using skills
+                we learned this semester, and then use the arduino to receive and process the data, which finally
+                controlls the LED strip to turn on and off showcasing the tide.
+            </p>
+            <p class="project">
+                In this project, we accomplished and practices a lot of skills that we learn in this class. For example,
+                in hardware, we practiced wire soldering a lot in the project. Then, in the FRDM-KL46Z code, we
+                accomplished
+                sending data using UART serial communication, as well as the real-time scheduling that we learned by
+                the end of the semester. Finally, in Arduino code, we accomplished receiving data in UART, as well as
+                data decode and other programming skills.
+            </p>
             <p class="project">Github: <a
                     href="https://pages.github.coecis.cornell.edu/ece3140-sp2023/jnl77-sy625-xf37/">Tide Clock</a>
             </p>
+            <img class="lonely" src="images/tideclock.png" alt="Tide clock demo"><br>
+
             <h3>2. Embedded Mahjong Player</h3>
+            <p class="project">
+                Mahjong is a type of Chinese board game where four players are required for a game. Often times, people
+                find it hard to always find four people for the game, often there are only three. Therefore, it became a
+                problem
+                that a fourth player is needed. To solve this problem, our team worked on the embedded mahjong player,
+                so that
+                it can play along as the extra player to help start the game.
+            </p>
+
+            <p class="project">
+                Our project first uses the Pi Camera to take photos of Mahjong tiles, and uses the photos to train the
+                computer
+                vision model, and then uses the trained model to identify the tiles. Next, the Mahjong algorithm would
+                determine
+                which tile it should play this round, and send the instruction to the PiTFT and servo to indicate the
+                played tile.
+                Displays and buttons on the PiTFT are also used as round controls.
+            </p>
 
             <p class="project">Github: <a href="https://github.com/colonel-aureliano/Embedded-Mahjong-Bot">Mahjong
                     Bot</a>
             </p>
+
+            <img class="lonely" src="images/mahjong.jpeg" alt="Mahjong bot"><br>
 
         </section>
     </main>
