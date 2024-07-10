@@ -5,9 +5,9 @@
 layout: home
 title: ''
 ---
-I'm Dawn, a dedicated *Edge Computing Software Engineer* at **Dell EMC** based in Singapore. Previously, I worked in numerous tech startups in various stages of development, which have allowed me to thrive in dynamic and innovative environments, building upon the strong foundation in computing concepts from my time at the National University of Singapore (NUS).
+I'm Rachel, a student from Cornell University double majoring in **Electrical & Computer Engineering** and **Computer Science**. My focus is mainly *Computer Architecture* and *Embedded Systems*. Previously, I have interned at *JP Morgan Chase* as an engineering intern, and have been a student research assistant in Cornell's *CSL (computer systems lab)*. On campus I have also completed various ECE project on my own or as a team with other students.
 
-At this point in my career, I am particularly interested in Operating Systems, as I simply think that they are neat :)
+Currently, I am a senior student, and hope to work in the industry mainly on RTL designing and testing or embedded systems engineering.
 
 ---
 
