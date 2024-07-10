@@ -17,7 +17,7 @@ Currently, I am a senior student, and hope to work in the industry mainly on RTL
 ## Education
 
 |  *Institution*    | *Degree*     | *Field of Study* | *Dates* |
-| ----------------- | ------------ | ---------------- | ------- |
+| ----------------- | ------------ | -------------------- | ------- |
 | **Cornell University** | B.S. | Electrical & Computer Engineering and Computer Science, Minor in Business | May 2025  |
 
   <br>
