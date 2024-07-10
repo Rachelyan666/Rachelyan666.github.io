@@ -13,6 +13,7 @@ I'm Rachel, a student from Cornell University double majoring in **Electrical & 
 
 Currently, I am a senior student, and hope to work in the industry mainly on RTL designing and testing or embedded systems engineering.
 
+ <br>
 
 ## Education
 
