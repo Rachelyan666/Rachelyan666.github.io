@@ -3,12 +3,12 @@
 - title: Home
    url: /
 - title: Experiences & Activities
-  url: /experiences/
-  #url: /research/
+  url: /activities/
 - title: Projects
   url: /projects/
 #- title: Activities & Awards
 #  url: /activities/
+#url: /research/
 #- title: Teaching
 #  url: /teaching/
 # - title: Search
