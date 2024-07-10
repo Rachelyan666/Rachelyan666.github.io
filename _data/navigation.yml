@@ -2,26 +2,11 @@
 
 - title: Home
   url: /
-<<<<<<< HEAD
-# - title: Posts
-#   url: /posts/
-# - title: Categories
-#   url: /categories/
-# - title: Tags
-#   url: /tags/
-# - title: Recipes
-#   url: /recipes/
-# - title: Search
-#   url: /search/
-# - title: External Page
-#   url: https://the-page.com/you-want-to-link-to.html
-=======
 - title: Work experience
   url: /experience/
 - title: Projects
-  url: /projects/
+  url: /projects.html
 - title: Skills
   url: /#skills
 - title: github
   url: https://github.com/lindawn
->>>>>>> 667c8b224b7c9ec492c03bd9c1f17c3a903d1807
