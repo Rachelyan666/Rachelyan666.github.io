@@ -2,7 +2,7 @@
 layout: home
 show_excerpts: false
 header: false
-title: Teaching
+title: Relevant Courses
 ---
 
 ------------------------------------------------------------------------------

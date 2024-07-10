@@ -45,8 +45,20 @@ Currently, I am a senior student, and hope to work in the industry mainly on RTL
 
 **Student Teach Assitant \|**  [**Computer Architecture**]  <span style="float:right;"> <i>(present)</i> </span>
 
+<br>
 
+## Fun Facts
 
+- In my spare time, I like to cook! There are a few Chinese Cuisines that I am very pround of!
+- My favorite sport is tennis, and my favorite player is Novak Djockovic who has won 24 Grand Slams!
+- I'm also a Broadway Fan. 
+  - The current season I would recommend: Suffs
+  - Here is the top 5 list of Broadway shows for me:
+    - Spring Awakening
+    - Hamilton
+    - Hadestown
+    - Dear Evan Hansen
+    - Comes From Away
 
 
 
