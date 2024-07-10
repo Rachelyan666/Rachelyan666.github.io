@@ -1,0 +1,13 @@
+--- # Only the main Sass file needs front matter (the dashes are enough) sitemap: false --- @charset "utf-8";
+@import "so-simple";
+.resume-date {
+    font-size: 0.75em;
+    font-family: "Lora", serif;
+    font-style: italic;
+    white-space: nowrap;
+    color: red
+}
+
+.resume-title {
+    margin-bottom: 0.15rem
+}

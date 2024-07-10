@@ -1,0 +1,12 @@
+# Sample site navigation bar links
+
+- title: Home
+  url: /
+- title: Work experience
+  url: /#experience
+- title: Certifications/Projects
+  url: /#certifications-and-projects
+- title: Skills
+  url: /#skills
+- title: github
+  url: https://github.com/lindawn
