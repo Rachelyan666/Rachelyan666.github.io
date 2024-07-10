@@ -7,35 +7,30 @@ title:
 
 ------------------------------------------------------------------------------
 
-# 👋 Hello there! I am Rachel
+# Hello and Welcome!
 
-I am an aspiring data scientist and Master's student in the Department of  Statistical Science at Duke University, where I also obtained my Bachelor's in Statistical Science (Data Science Concentration) and a Minor in Computer Science. 
+I'm Rachel, a student from Cornell University double majoring in **Electrical & Computer Engineering** and **Computer Science**. My focus is mainly *Computer Architecture* and *Embedded Systems*. Previously, I have interned at *JP Morgan Chase* as an engineering intern, and have been a student research assistant in Cornell's *CSL (computer systems lab)*. On campus I have also completed various ECE project on my own or as a team with other students.
 
-- My academic journey has been marked by a deep research commitment to statistical analysis, machine learning, and data science, with special focuses on natural language processing, Bayesian statistics, and creative data visualizations. Take a look of my previous [research](/research) and [intern projects](/projects) in R and Python, and let me know if you are interested! 
-- Beyond academia, I actively contribute as a Project Manager & Data Analyst @ [Duke Impact Investing Group](https://www.linkedin.com/company/diig/) and as the Chief Technology Officer @ [Duke Statistical Science Majors Union](https://dukegroups.com/ssmu/home/). Additionally, I have been a [teaching assistant](/teaching) with 3+ years of experience. Feel free to reach out for project advice and business case studies. 
-- In my free time, I do 🥊 / 🚴‍♀️ / 🎹 / 🧁
-
-<div style="text-align: right"> 
-    <a href="/docus/Yifan%20(Holly)%20Cui%20Resume.pdf">👉View My Resume</a> 
-</div>
+Currently, I am a senior student, and hope to work in the industry mainly on RTL designing and testing or embedded systems engineering.
 
 
-## 🏫 Education
+## Education
 
 |  *Institution*    | *Degree*     | *Field of Study* | *Dates* |
 | ----------------- | ------------ | ---------------- | ------- |
-| **Duke University** | M.S. Student | Statistics  | May 2025  |
-| **Duke University** | B.S. | Statistical Science (Data Science Concentration) Minor in Computer Science | May 2023  |
-| **University of California, Santa Barbara** | (Transfer Out) | Statistics and Data Science | June 2021 |
+| **Cornell University** | B.S. | Electrical & Computer Engineering and Computer Science, Minor in Business | May 2025  |
 
   <br>
 
 
-## ⚙️ Skillset
+## Skills
 
-![Skillset](/images/skills.png)
-<div style="text-align: right"> <i>© Visualization is created by scraping through my resume using R wordcloud2 package.</i> </div>
-
+- **Software Programming Languages**: Python, Java, Ocaml, R, C++, HTML/CSS
+- - **Hardware Programming Languages**: Verilog, SystemVerilog, Assembly, C
+- **Scripting** : Bash
+- **Operating Systems**: Ubuntu, Raspberry Pi
+- **CAD**: Cadence Virtuoso
+- **Data Science Tools**: Tableau, Alteryx
   <br>
 
 
