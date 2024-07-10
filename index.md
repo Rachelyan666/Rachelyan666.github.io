@@ -31,7 +31,9 @@ Currently, I am a senior student, and hope to work in the industry mainly on RTL
 - **Operating Systems**: Ubuntu, Raspberry Pi
 - **CAD**: Cadence Virtuoso
 - **Data Science Tools**: Tableau, Alteryx
-  <br>
+<br>
+<br>
+
 
 
 ## Recent Experiences

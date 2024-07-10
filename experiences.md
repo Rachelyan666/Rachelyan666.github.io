@@ -2,7 +2,7 @@
 layout: home
 show_excerpts: false
 header: false
-title: Activities & Awards
+title: Experiences and Activities
 ---
 
 ------------------------------------------------------------------------------  
