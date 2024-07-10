@@ -3,9 +3,9 @@
 - title: Home
   url: /
 - title: Work experience
-  url: /#experience
-- title: Certifications/Projects
-  url: /#certifications-and-projects
+  url: experience.html
+- title: Projects
+  url: projects.html
 - title: Skills
   url: /#skills
 - title: github
