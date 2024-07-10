@@ -16,8 +16,8 @@ Currently, I am a senior student, and hope to work in the industry mainly on RTL
 
 ## Education
 
-|  *Institution*    | *Degree*     | *Field of Study* | *Dates* |
-| ----------------- | ------------ | -------------------- | ------- |
+|  *Institution*    | *Degree*       | *Field of Study*     | *Dates* |
+| ----------------- | -------------- | -------------------- | ------- |
 | **Cornell University** | B.S. | Electrical & Computer Engineering and Computer Science, Minor in Business | May 2025  |
 
   <br>
@@ -26,7 +26,7 @@ Currently, I am a senior student, and hope to work in the industry mainly on RTL
 ## Skills
 
 - **Software Programming Languages**: Python, Java, Ocaml, R, C++, HTML/CSS
-- - **Hardware Programming Languages**: Verilog, SystemVerilog, Assembly, C
+- **Hardware Programming Languages**: Verilog, SystemVerilog, Assembly, C
 - **Scripting** : Bash
 - **Operating Systems**: Ubuntu, Raspberry Pi
 - **CAD**: Cadence Virtuoso
