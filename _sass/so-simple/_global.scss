@@ -14,6 +14,7 @@
   position: fixed;
   width: 100%;
   z-index: 10;
+  padding-top: 2em;
 }
 
 #menu-toggle {
@@ -31,13 +32,13 @@
 
 .site-nav {
   display: none;
+  margin-top: -1em;
   margin-bottom: 1em;
   text-align: center;
   //position: fixed;
 
   ul {
     display: block;
-    margin: 5;
     padding: 0.25em 0.75em;
     list-style: none;
     border-radius: 0 0 (2 * $border-radius) (2 * $border-radius);
@@ -84,7 +85,7 @@
 .site-title {
   margin: 0.5em 0 0;
   padding: 0;
-  @include fluid-type($min-vw, $max-vw, $h5-min, $h5-max);
+  @include fluid-type($min-vw, $max-vw, $h2-min, $h2-max);
   font-weight: 700;
 
   a {
