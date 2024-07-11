@@ -129,6 +129,7 @@
   .social-icon {
     display: inline-block;
     padding: 0 0.25em;
+    margin-left: 2em;
   }
 }
 
@@ -169,7 +170,7 @@
     border-bottom: solid 1px;
   }
 
-  + .taxonomy-section {
+  +.taxonomy-section {
     margin-top: 2em;
   }
 }
@@ -207,7 +208,7 @@
     border-bottom: 1px solid;
   }
 
-  + .taxonomy-section {
+  +.taxonomy-section {
     margin-top: 3em;
   }
 }

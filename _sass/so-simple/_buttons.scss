@@ -22,10 +22,11 @@
 
   .icon {
     margin-right: 2em;
+    margin-left: 5em;
   }
 
   .icon+.hidden {
-    margin-left: -0.5em;
+    margin-left: 0.5em;
     /* override for hidden text*/
   }
 
