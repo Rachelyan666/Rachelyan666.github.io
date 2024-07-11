@@ -5,7 +5,9 @@ header: false
 title: Projects
 ---
 
-## Software Projects:
+------------------------------------------------------------------------------
+
+## Software Projects
 
 **Alien Shooting Flash Game**
 
@@ -19,9 +21,6 @@ Github: <a href="https://github.com/Rachelyan666/alien_shooting">Alien Shooting 
 
 ![Alien Game](/images/stage6.png)
 
-
-
-
 **LTL interpreter**
 
 This project is a interpreter written by Ocaml that transfers a natural language that follows LTL rules into an automata graph.
@@ -34,10 +33,9 @@ Github: <a href="https://github.com/JLjw8/LTL2Buchi">Interpreter</a>
 
 ![interpreter](/images/buchi.png)
 
-
 <br>
 
-## Electrical projects:
+## Electrical projects
 
 **Tide Clock**
 
@@ -48,7 +46,6 @@ In this project, we accomplished and practices a lot of skills that we learn in 
 Github: <a href="https://pages.github.coecis.cornell.edu/ece3140-sp2023/jnl77-sy625-xf37/">Tide Clock</a>
 
 ![interpreter](/images/tideclock2.png)
-
 
 **Embedded Mahjong Player**
 
