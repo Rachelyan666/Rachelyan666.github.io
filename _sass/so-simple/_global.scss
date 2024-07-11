@@ -14,7 +14,7 @@
   position: fixed;
   width: 100%;
   z-index: 10;
-  padding-top: 2em;
+  margin-top: 2em;
 }
 
 #menu-toggle {
@@ -32,7 +32,6 @@
 
 .site-nav {
   display: none;
-  margin-top: -1em;
   margin-bottom: 1em;
   text-align: center;
   //position: fixed;
