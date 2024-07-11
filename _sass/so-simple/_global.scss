@@ -37,7 +37,7 @@
 
   ul {
     display: block;
-    margin: 0;
+    margin: 5;
     padding: 0.25em 0.75em;
     list-style: none;
     border-radius: 0 0 (2 * $border-radius) (2 * $border-radius);
@@ -84,7 +84,7 @@
 .site-title {
   margin: 0.5em 0 0;
   padding: 0;
-  @include fluid-type($min-vw, $max-vw, $h3-min, $h3-max);
+  @include fluid-type($min-vw, $max-vw, $h5-min, $h5-max);
   font-weight: 700;
 
   a {
