@@ -38,14 +38,14 @@
 
     @include breakpoint($medium) {
       display: inline-block;
-      //position: fixed;
+      position: fixed;
     }
   }
 
   li {
     display: inline-block;
     font-size: 0.75rem;
-    position: fixed;
+    //position: fixed;
   }
 
   a {
@@ -59,7 +59,7 @@
 
   @include breakpoint($medium) {
     display: block;
-    //position: fixed;
+    position: fixed;
   }
 
   &.js-menu-is-open {
