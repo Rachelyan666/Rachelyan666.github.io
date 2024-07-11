@@ -51,6 +51,7 @@ Currently, I am a senior student, and hope to work in the industry mainly on RTL
 
 - In my spare time, I like to cook! There are a few Chinese Cuisines that I am very pround of!
 - My favorite sport is tennis, and my favorite player is Novak Djockovic who has won 24 Grand Slams!
+- I love solving Rubik's cubes, and I have a big collection of all different types of them. My record for solving a classic 3x3 cube is 59 seconds :)
 - I'm also a Broadway Fan. 
   - The current season I would recommend: Suffs
   - Here is the top 5 list of Broadway shows for me:
