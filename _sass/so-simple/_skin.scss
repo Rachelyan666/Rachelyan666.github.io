@@ -49,7 +49,7 @@ blockquote {
 
 .taxonomy-index {
   a {
-    border-bottom-color: $border-color;
+    border-bottom-color: #073642;
 
     &:hover {
       color: $accent-color;
@@ -59,7 +59,7 @@ blockquote {
 
 .taxonomy-section {
   &:not(:last-child) {
-    border-bottom-color: $border-color;
+    border-bottom-color: #073642;
   }
 }
 
@@ -96,7 +96,7 @@ blockquote {
 }
 
 .toc-wrapper {
-  border-color: mix(#fff, $border-color, 25%);
+  border-color: #073642;
 
   h2 {
     color: $base05;
@@ -180,7 +180,7 @@ blockquote {
 
 th,
 td {
-  border-bottom-color: $border-color;
+  border-bottom-color: #073642;
 }
 
 
@@ -262,7 +262,7 @@ td {
     @include yiq-contrasted($color);
 
     @if ($buttoncolor ==inverse) {
-      border: 1px solid $border-color;
+      border: 1px solid #073642;
     }
 
     @if ($buttoncolor ==light-outline) {
