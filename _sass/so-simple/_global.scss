@@ -139,8 +139,9 @@
 .site-footer {
   @include clearfix();
   //margin-top: 1.5 em;
-  padding: 1 em;
+  padding: 1.5 em;
   text-align: center;
+  border-top: 1px solid;
 
   .social-icons {
     margin-bottom: 0.5em;
