@@ -27,7 +27,7 @@
   display: none;
   margin-bottom: 1em;
   text-align: center;
-  position: fixed;
+  //position: fixed;
 
   ul {
     display: block;
@@ -45,7 +45,7 @@
   li {
     display: inline-block;
     font-size: 0.75rem;
-    //position: fixed;
+    position: fixed;
   }
 
   a {
