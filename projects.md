@@ -5,8 +5,6 @@ header: false
 title: Projects
 ---
 
-------------------------------------------------------------------------------
-
 ## Software Projects
 
 **Alien Shooting Flash Game**
