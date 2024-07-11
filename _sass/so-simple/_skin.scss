@@ -4,7 +4,7 @@
 
 body {
   color: $text-color;
-  background: #c6e1f8;
+  background: #cde7fe;
   border-top-color: #7b7b7b;
 }
 
@@ -92,7 +92,7 @@ blockquote {
 }
 
 .site-logo-img {
-  border-color: #c6e1f8;
+  border-color: #cde7fe;
 }
 
 .toc-wrapper {
@@ -100,12 +100,12 @@ blockquote {
 
   h2 {
     color: $base05;
-    background-color: $base00;
+    //background-color: $base00;
   }
 
   li {
     ol {
-      background-color: #c6e1f8;
+      background-color: #cde7fe;
     }
 
     a {
