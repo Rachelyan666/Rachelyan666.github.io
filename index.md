@@ -3,7 +3,7 @@ layout: home
 show_excerpts: false
 header: false
 title: Hello and Welcome!
-----
+---
 
 I'm Rachel, a student from Cornell University double majoring in **Electrical & Computer Engineering** and **Computer Science**. My focus is mainly *Computer Architecture* and *Embedded Systems*. Previously, I have interned at *JP Morgan Chase* as an engineering intern, and have been a student research assistant in Cornell's *CSL (computer systems lab)*. On campus I have also completed various ECE projects on my own or as a team with other students.
 
