@@ -2,8 +2,8 @@
 layout: home
 show_excerpts: false
 header: false
-title:     
----
+title:            
+----
 
 # Hello and Welcome
 

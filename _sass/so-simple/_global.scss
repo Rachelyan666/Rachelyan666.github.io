@@ -50,11 +50,11 @@
 
   li {
     display: inline-block;
-    font-size: 0.8 rem;
+    font-size: 0.7 rem;
     //position: fixed;
 
     @include breakpoint($medium) {
-      font-size: 0.8 rem;
+      font-size: 0.7 rem;
       //position: fixed;
     }
   }
