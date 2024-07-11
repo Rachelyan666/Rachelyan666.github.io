@@ -4,7 +4,7 @@
 
 body {
   color: $text-color;
-  background: #cfe6fb;
+  background: #c6e1f8;
   border-top-color: #7b7b7b;
 }
 
@@ -70,12 +70,12 @@ blockquote {
 .site-nav {
   ul {
     color: $nav-color;
-    background-color: #888c89;
+    background-color: #7b7b7b;
   }
 
   a {
     color: $nav-color;
-    border-color: #888c89;
+    border-color: #7b7b7b;
 
     &:hover {
       border-color: $nav-color;
@@ -123,7 +123,7 @@ blockquote {
 }
 
 #menu-toggle {
-  background-color: #888c89;
+  background-color: #7b7b7b;
 }
 
 #markdown-toc {
