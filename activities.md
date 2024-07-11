@@ -3,9 +3,7 @@ layout: home
 show_excerpts: false
 header: false
 title: Experiences and Activities
----
-
-------------------------------------------------------------------------------  
+--- 
 
 ## Professional Experiences
 
