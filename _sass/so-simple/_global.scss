@@ -10,6 +10,10 @@
   }
 }
 
+.navigation-wrapper {
+  position: fixed;
+}
+
 #menu-toggle {
   display: block;
   margin: 0;
@@ -38,7 +42,7 @@
 
     @include breakpoint($medium) {
       display: inline-block;
-      position: fixed;
+      //position: fixed;
     }
   }
 
@@ -59,7 +63,7 @@
 
   @include breakpoint($medium) {
     display: block;
-    position: fixed;
+    //position: fixed;
   }
 
   &.js-menu-is-open {
