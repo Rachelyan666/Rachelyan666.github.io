@@ -35,7 +35,6 @@
     padding: 0.25em 0.75em;
     list-style: none;
     border-radius: 0 0 (2 * $border-radius) (2 * $border-radius);
-    position: fixed;
 
     @include breakpoint($medium) {
       display: inline-block;
