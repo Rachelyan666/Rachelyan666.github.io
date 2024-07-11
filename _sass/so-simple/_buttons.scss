@@ -21,11 +21,12 @@
   cursor: pointer;
 
   .icon {
-    margin-right: 0.5em;
+    margin-right: 2em;
   }
 
-  .icon + .hidden {
-    margin-left: -0.5em; /* override for hidden text*/
+  .icon+.hidden {
+    margin-left: -0.5em;
+    /* override for hidden text*/
   }
 
   /* fills width of parent container */
@@ -33,7 +34,7 @@
     display: block;
     width: 100%;
 
-    + .btn--block {
+    +.btn--block {
       margin-top: 0.25em;
     }
   }
