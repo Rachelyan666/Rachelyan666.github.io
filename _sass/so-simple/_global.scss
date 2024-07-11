@@ -25,33 +25,30 @@
 
 .site-nav {
   display: none;
-  position: fixed;
   margin-bottom: 1em;
   text-align: center;
+  position: fixed;
 
   ul {
     display: block;
-    position: fixed;
     margin: 0;
     padding: 0.25em 0.75em;
     list-style: none;
     border-radius: 0 0 (2 * $border-radius) (2 * $border-radius);
+    position: fixed;
 
     @include breakpoint($medium) {
       display: inline-block;
-      position: fixed;
     }
   }
 
   li {
     display: inline-block;
-    position: fixed;
     font-size: 0.75rem;
   }
 
   a {
     display: block;
-    position: fixed;
     padding: 0.5em 0.75em;
     text-transform: uppercase;
     text-decoration: none;
@@ -61,7 +58,6 @@
 
   @include breakpoint($medium) {
     display: block;
-    position: fixed;
   }
 
   &.js-menu-is-open {
