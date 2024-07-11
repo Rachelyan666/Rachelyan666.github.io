@@ -5,7 +5,7 @@
 body {
   color: $text-color;
   background: #c6e1f8;
-  border-top-color: $nav-background-color;
+  border-top-color: #888c89;
 }
 
 a {
@@ -70,12 +70,12 @@ blockquote {
 .site-nav {
   ul {
     color: $nav-color;
-    background-color: $nav-background-color;
+    background-color: #888c89;
   }
 
   a {
     color: $nav-color;
-    border-color: $nav-background-color;
+    border-color: #888c89;
 
     &:hover {
       border-color: $nav-color;
@@ -84,11 +84,11 @@ blockquote {
 }
 
 .site-footer {
-  border-top-color: $border-color;
+  border-top-color: $base01;
 }
 
 .footnotes {
-  border-top-color: $border-color;
+  border-top-color: $base01;
 }
 
 .site-logo-img {
@@ -123,7 +123,7 @@ blockquote {
 }
 
 #menu-toggle {
-  background-color: $nav-background-color;
+  background-color: #888c89;
 }
 
 #markdown-toc {
