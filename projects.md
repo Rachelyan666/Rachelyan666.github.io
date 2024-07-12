@@ -5,34 +5,6 @@ header: false
 title: Projects
 ---
 
-## Software Projects
-
-**Alien Shooting Flash Game**
-
-This project is a game written by python and pygame that allows the space ship to shoot the aliens.
-
-What we are supposed to create, is a game that includes one player, which is shown as a spaceship in the game There is going to be a group of aliens, alinged in a group, and they are the enemies that we will need to kill. The spaceship have some bullets that could be shooted out, and these bullets could kill the aliens. There are also several GUI and some other resitrictions in the game that we will need to implement in order for it to be working correctly.
-
-The code itself contains around 1000 lines of code, and they are broken up into several different modules, such as the wave, which is to control each wave of aliens, the model class, which is the basic settings for the spaceship, alliens and the bullets. Finally there is also an app module, which is the general controller of the application.
-
-Github: <a href="https://github.com/Rachelyan666/alien_shooting">Alien Shooting Game</a>
-
-![Alien Game](/images/stage6.png)
-
-**LTL interpreter**
-
-This project is a interpreter written by Ocaml that transfers a natural language that follows LTL rules into an automata graph.
-
-This is a tool that can translate everyday language into something a machine understands. LTL logic, which is the Linear Temporal Language (LTL) will be transformed into Büchi Automata.
-
-This converter takes in strictly-formatted human language, parses and synthesizes it into a simplified Linear Temporal Logic expression, and converts it into a reliable Büchi automaton that is visualized and verifiable. With the automaton being generated, the user is able to verify if their subsequent tentative actions is executable.
-
-Github: <a href="https://github.com/JLjw8/LTL2Buchi">Interpreter</a>
-
-![interpreter](/images/buchi.png)
-
-<br>
-
 ## Electrical projects
 
 **Tide Clock**
@@ -54,3 +26,31 @@ Our project first uses the Pi Camera to take photos of Mahjong tiles, and uses t
 Github: <a href="https://github.com/colonel-aureliano/Embedded-Mahjong-Bot">Embedded Mahjong Bot</a>
 
 ![interpreter](/images/mahjong.jpeg)
+
+<br>
+
+## Software Projects
+
+**LTL interpreter**
+
+This project is a interpreter written by Ocaml that transfers a natural language that follows LTL rules into an automata graph.
+
+This is a tool that can translate everyday language into something a machine understands. LTL logic, which is the Linear Temporal Language (LTL) will be transformed into Büchi Automata.
+
+This converter takes in strictly-formatted human language, parses and synthesizes it into a simplified Linear Temporal Logic expression, and converts it into a reliable Büchi automaton that is visualized and verifiable. With the automaton being generated, the user is able to verify if their subsequent tentative actions is executable.
+
+Github: <a href="https://github.com/JLjw8/LTL2Buchi">Interpreter</a>
+
+![interpreter](/images/buchi.png)
+
+**Alien Shooting Flash Game**
+
+This project is a game written by python and pygame that allows the space ship to shoot the aliens.
+
+What we are supposed to create, is a game that includes one player, which is shown as a spaceship in the game There is going to be a group of aliens, alinged in a group, and they are the enemies that we will need to kill. The spaceship have some bullets that could be shooted out, and these bullets could kill the aliens. There are also several GUI and some other resitrictions in the game that we will need to implement in order for it to be working correctly.
+
+The code itself contains around 1000 lines of code, and they are broken up into several different modules, such as the wave, which is to control each wave of aliens, the model class, which is the basic settings for the spaceship, alliens and the bullets. Finally there is also an app module, which is the general controller of the application.
+
+Github: <a href="https://github.com/Rachelyan666/alien_shooting">Alien Shooting Game</a>
+
+![Alien Game](/images/stage6.png)
