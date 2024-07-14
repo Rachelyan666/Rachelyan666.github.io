@@ -9,16 +9,16 @@ body {
 }
 
 a {
-  color: $accent-color;
+  color: #2b472c; //accent
 
   &:hover {
-    color: shade($accent-color, 25%);
+    color: shade(#2b472c, 25%); //accent
   }
 }
 
 blockquote {
-  background-color: mix($background-color, $accent-color, 90%);
-  border-left-color: $accent-color;
+  background-color: mix($background-color, #2b472c, 90%); //accent
+  border-left-color: #2b472c; //accent
 }
 
 /* ==========================================================================
@@ -84,11 +84,11 @@ blockquote {
 }
 
 .site-footer {
-  border-top-color: $base01;
+  border-top-color: #2b472c; //base01
 }
 
 .footnotes {
-  border-top-color: $base01;
+  border-top-color: #2b472c; //base01
 }
 
 .site-logo-img {
@@ -169,7 +169,7 @@ blockquote {
 .entry {
   a {
     &:hover {
-      color: $accent-color;
+      color: #2b472c; //accent
     }
   }
 }
@@ -303,7 +303,7 @@ figure.highlight {
       //color: $base04;
       color: $base01;
       //border-right-color: $base04;
-      border-right-color: $base01;
+      border-right-color: #2b472c;
     }
   }
 }
