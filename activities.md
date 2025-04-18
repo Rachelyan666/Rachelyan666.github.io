@@ -22,9 +22,14 @@ title: Experiences and Activities
 ## Academic Experiences
 
 **Undergraduate Research Assistant @** [**Cornell University - Computer Systems Laboratory**] 
-(_Aug 2023_ – _Present_)
+(_Aug 2023_ – _December 2024_)
 - Explored graphing algorithms with GraphBLAS and researched its use on creating more efficient computer architecture systems, achieved best results to improve algorithm such as PageRank efficiency by 1.4%.
 - Synthesized graphing algorithms on Intel FPGAs using High-Level Synthesis and RTL Designs, enabled direct communication between Avalon Memory Mapped System and AXI4.
+
+**Computer Architecture Course Teaching Assistant @** [**Cornell University - College of Engineering**] 
+(_Aug 2024_ – _Present_)
+- Supported instruction in core computer architecture topics including pipelining, memory hierarchy, implemenetation optimization, and instruction-level parallelism.
+- Provided guidance on lab assignments involving assembly programming, cache simulations, and performance analysis.
 
 **Electrical & Embedded Systems Developer @** [**Cornell Cup Robotics - Student Project Team**] 
 (_Jan 2022_ – _May 2023_)

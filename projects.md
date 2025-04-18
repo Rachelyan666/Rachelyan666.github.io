@@ -7,6 +7,15 @@ title: Projects
 
 ## Electrical projects
 
+**Ball Balancing PID Platform** [**In Progress**] 
+
+Balancing a ball on a surface is a classic control problem that involves detecting the ball’s position in real time and adjusting the platform’s orientation accordingly. In this project, we built a two-degree-of-freedom ball balancing system using a Raspberry Pi 4, RP2040 microcontroller, servo motors, and a custom platform made from acrylic and 3D-printed parts.
+
+The Pi Camera captures the ball’s position in real time, and the Raspberry Pi uses a computer vision algorithm to track the ball's movement. The position data is then sent to the RP2040 through UART. The microcontroller runs a PID control algorithm that calculates the servo angles needed to tilt the platform and stabilize the ball. The ball’s position is also displayed in real time on a VGA screen as visual feedback. By isolating the x and y directions, we successfully balanced a 1-inch diameter ball on the platform.
+
+![Ball balancer](images/balancer.png)
+
+
 **Tide Clock**
 
 In general, our system works by sending tidal data from the FRDM-KL46Z board using skills we learned this semester, and then use the arduino to receive and process the data, which finally controlls the LED strip to turn on and off showcasing the tide.
@@ -15,17 +24,25 @@ In this project, we accomplished and practices a lot of skills that we learn in 
 
 Github: <a href="https://pages.github.coecis.cornell.edu/ece3140-sp2023/jnl77-sy625-xf37/">Tide Clock</a>
 
-![interpreter](/images/tideclock2.png)
+![Tideclock](/images/tideclock2.png)
 
 **Embedded Mahjong Player**
 
 Mahjong is a type of Chinese board game where four players are required for a game. Often times, people find it hard to always find four people for the game, often there are only three. Therefore, it became a problem that a fourth player is needed. To solve this problem, our team worked on the embedded mahjong player, so that it can play along as the extra player to help start the game.
 
-Our project first uses the Pi Camera to take photos of Mahjong tiles, and uses the photos to train the computer vision model, and then uses the trained model to identify the tiles. Next, the Mahjong algorithm would determine which tile it should play this round, and send the instruction to the PiTFT and servo to indicate the played tile. Displays and buttons on the PiTFT are also used as round controls.
+Our project first uses the Pi Camera to take photos of Mahjong tiles, and uses the photos to train the computer vision model, and then uses the trained model to identify the tiles. Next, the Mahjong algorithm would determine which tile it should play this round, and send the instruction to the PiTFT and servo to indicate the played tile. Displays and buttons on the PiTFT are also used as round controls. 
 
 Github: <a href="https://github.com/colonel-aureliano/Embedded-Mahjong-Bot">Embedded Mahjong Bot</a>
 
-![interpreter](/images/mahjong.jpeg)
+![Mahjong](/images/mahjong.jpeg)
+
+**Theater Actor Auto Follow Light System** [**In Progress**]
+
+In theater productions, a follow spot is often used to highlight the lead actor on stage. Traditionally, this spotlight is manually controlled, which can be labor-intensive and may not always keep up with fast-moving performances. To solve this problem, our team is developing an automated actor tracking spotlight system that can follow the actor in real-time without human control.
+
+Our project uses a Raspberry Pi and infrared tracking techniques to detect the actor's position on stage. The actor is equipped with an infrared-emitting marker, and sensors or Pi-compatible NoIR cameras are used to detect the IR signal. The position data is then processed to calculate the actor’s location and send commands to a motorized spotlight to pan and tilt accordingly. This system aims to improve spotlight accuracy and reduce manual operation in live theater environments.
+
+![Auto Following Light](/images/follow.png)
 
 <br>
 
@@ -43,14 +60,14 @@ Github: <a href="https://github.com/JLjw8/LTL2Buchi">Interpreter</a>
 
 ![interpreter](/images/buchi.png)
 
-**Alien Shooting Flash Game**
+**Ultimate Tic-Tac-Toe AI Player**
 
-This project is a game written by python and pygame that allows the space ship to shoot the aliens.
+This project implements an AI agent built to play Ultimate Tic-Tac-Toe, implemented in Python with a AI algorithms and Pygame-based graphical interface.
 
-What we are supposed to create, is a game that includes one player, which is shown as a spaceship in the game There is going to be a group of aliens, alinged in a group, and they are the enemies that we will need to kill. The spaceship have some bullets that could be shooted out, and these bullets could kill the aliens. There are also several GUI and some other resitrictions in the game that we will need to implement in order for it to be working correctly.
+The project explores classic game AI techniques including Minimax search, Alpha-Beta pruning, and heuristic evaluation functions tailored for the unique rules of Ultimate Tic-Tac-Toe. The AI is capable of playing strategically on both the macro and micro boards, adapting to changing board states and forcing favorable positions. The rules of valid move restrictions and win propagation are fully enforced.
 
-The code itself contains around 1000 lines of code, and they are broken up into several different modules, such as the wave, which is to control each wave of aliens, the model class, which is the basic settings for the spaceship, alliens and the bullets. Finally there is also an app module, which is the general controller of the application.
+Users can play against the AI in an interactive GUI and toggle between different levels of difficulty. The project also includes testing infrastructure and tools for analyzing AI performance over multiple games.
 
-Github: <a href="https://github.com/Rachelyan666/alien_shooting">Alien Shooting Game</a>
+Github: <a href="https://github.com/Rachelyan666/alien_shooting">AI Ultimate tic-tac-toe player</a>
 
-![Alien Game](/images/stage6.png)
+![AI tic-tac-toe player](/images/uttt.png)

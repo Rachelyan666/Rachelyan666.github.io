@@ -5,6 +5,13 @@ header: false
 title: Relevant Courses
 ---
 
+## ECE 5730 Introduction to Microcontrollers
+
+"Design of real-time digital systems using microprocessor-based embedded controllers. Students working in groups of 2-3 design, debug, and construct several systems that illustrate and employ the techniques of digital system design acquired in previous courses. The content focuses on laboratory work. The lectures are used primarily for the introduction of examples, description of specific modules to be designed, and instruction in the hardware and high-level design tools to be employed."
+
+<https://ece4760.github.io/>
+<br>
+
 ## ECE 5725 Embedded Operating Systems
 
 "Design of microcontroller based systems using embedded Linux. Student teams design and debug example solutions on a target microcontroller (for example, Raspberry Pi) during lab sessions. Emphasis will be on application and Linux programming skills, microcontroller systems, and discussion of external hardware. Students create a final, end-of-semester project using the microcontroller platform and development techniques discussed during the semester."
@@ -26,6 +33,11 @@ title: Relevant Courses
 <https://classes.cornell.edu/browse/roster/SP23/class/ECE/3140>
 <br>
 
+## CS 4410 Operating Systems
+"Introduction to the design of systems programs, with emphasis on multiprogrammed operating systems. Topics include concurrency, synchronization, deadlocks, memory management, protection, input-output methods, networking, file systems and security. The impact of network and distributed computing environments on operating systems is also discussed."
+<https://www.cs.cornell.edu/courses/cs4410/2025sp/>
+<br>
+
 ## CS 4780 Introduction to Machine Learning
 
 "The course provides an introduction to machine learning, focusing on supervised learning and its theoretical foundations. Topics include regularized linear models, boosting, kernels, deep networks, generative models, online learning, and ethical questions arising in ML applications."
@@ -38,6 +50,12 @@ title: Relevant Courses
 "Intermediate programming in a high-level language and introduction to computer science. Topics include object-oriented programming (classes, objects, subclasses, types), graphical user interfaces, algorithm analysis (asymptotic complexity, big "O" notation), recursion, testing, program correctness (loop invariants), searching/sorting, data structures (lists, trees, stacks, queues, heaps, search trees, hash tables, graphs), graph algorithms. Java is the principal programming language."
 
 <https://www.cs.cornell.edu/courses/cs2110/2022fa/>
+<br>
+
+## ECE 5210 Network Systems and Games
+"Network systems pervade our society in both social and technological contexts. On the one hand, social networks play a central role in the transmission of information and viruses with fundamental consequences for product marketing, technology adoption, voting decisions, spread of false news and epidemiology. On the other hand, network topology fundamentally affects the performance and resilience properties of large-scale multi-agent systems, such as the electric power grid, the internet of things, traffic or robotic sensor networks."
+
+<https://classes.cornell.edu/browse/roster/SP25/class/SYSEN/5420>
 <br>
 
 ## CEE 3230 Engineering Economics and Management

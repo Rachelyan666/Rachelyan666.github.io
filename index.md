@@ -7,7 +7,7 @@ title: Hello and Welcome!
 
 I'm Rachel, a student from Cornell University double majoring in **Electrical & Computer Engineering** and **Computer Science**. My focus is mainly *Computer Architecture* and *Embedded Systems*. Previously, I have interned at *JP Morgan Chase* as an engineering intern, and have been a student research assistant in Cornell's *CSL (computer systems lab)*. On campus I have also completed various ECE projects on my own or as a team with other students.
 
-Currently, I am a senior student, and hope to work in the industry mainly on RTL designing and testing or embedded systems engineering.
+Currently, I am a Master student, and hope to work in the industry mainly on embedded systems engineering or RTL engineering projects.
 
  <br>
 
@@ -16,28 +16,32 @@ Currently, I am a senior student, and hope to work in the industry mainly on RTL
 |  *Institution*    | *Degree*       | *Field of Study*     | *Dates* |
 | ----------------- | -------------- | -------------------- | ------- |
 | **Cornell University** | B.S. | Electrical & Computer Engineering and Computer Science, Minor in Business | May 2025  |
+| **Cornell University** | M.Eng. | Electrical & Computer Engineering | December 2025  |
 
   <br>
 
 ## Skills
 
-- **Software Programming Languages**: Python, Java, Ocaml, R, C++, HTML/CSS
+- **Software Programming Languages**: Python, Java, C++, Ocaml, R, HTML/CSS/Javascript
 - **Hardware Programming Languages**: Verilog, SystemVerilog, Assembly, C
 - **Scripting** : Bash
-- **Operating Systems**: Ubuntu, Raspberry Pi
+- **Operating Systems**: Ubuntu, RedHat, Raspberry Pi
 - **CAD**: Cadence Virtuoso
-- **Data Science Tools**: Tableau, Alteryx
+- **Data Science Tools**: Tableau, Alteryx, Stata
+- **Other Software**: Microsoft Office, Generative AIs
 <br>
 
 <br>
 
 ## Recent Experiences
 
-**Summer Associate \|** [**JP Morgan Chase & Co.**]   <span style="float:right;"> <i>(Jun 2024 - Aug 2024)</i> </span>
+**Master of Engineering Project: \|**  [**Theater Actor Auto Follow Light System**]  <span style="float:right;"> <i>(present)</i> </span>
 
-**Student Research Assistant \|**  [**Cornell Computer Systems Lab**]  <span style="float:right;"> <i>(present)</i> </span>
+**On-going Project: \|**  [**Ball Balancing PID Platform**]  <span style="float:right;"> <i>(present)</i> </span>
 
 **Student Teach Assitant \|**  [**Computer Architecture**]  <span style="float:right;"> <i>(present)</i> </span>
+
+**Summer Associate \|** [**JP Morgan Chase & Co.**]   <span style="float:right;"> <i>(Jun 2024 - Aug 2024)</i> </span>
 
 <br>
 
@@ -47,7 +51,6 @@ Currently, I am a senior student, and hope to work in the industry mainly on RTL
 - My favorite sport is tennis, and my favorite player is Novak Djockovic who has won 24 Grand Slams!
 - I love solving Rubik's cubes, and I have a big collection of all different types of them. My record for solving a classic 3x3 cube is 59 seconds :)
 - I'm also a Broadway Fan.
-  - The current season I would recommend: Suffs
   - Here is the top 5 list of Broadway shows for me:
     - Spring Awakening
     - Hamilton
