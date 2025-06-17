@@ -15,7 +15,7 @@ Currently, I am a Master student, and hope to work in the industry mainly on emb
 
 |  *Institution*    | *Degree*       | *Field of Study*     | *Dates* |
 | ----------------- | -------------- | -------------------- | ------- |
-| **Cornell University** | B.S. | Electrical & Computer Engineering and Computer Science, Minor in Business | May 2025  |
+| **Cornell University** | B.S. | Electrical & Computer Engineering and Computer Science | May 2025  |
 | **Cornell University** | M.Eng. | Electrical & Computer Engineering | December 2025  |
 
   <br>
@@ -37,9 +37,9 @@ Currently, I am a Master student, and hope to work in the industry mainly on emb
 
 **Master of Engineering Project: \|**  [**Theater Actor Auto Follow Light System**]  <span style="float:right;"> <i>(present)</i> </span>
 
-**On-going Project: \|**  [**Ball Balancing PID Platform**]  <span style="float:right;"> <i>(present)</i> </span>
+**Internship Project: \|**  [**Wetland Flux Chamber**]  <span style="float:right;"> <i>(present)</i> </span>
 
-**Student Teach Assitant \|**  [**Computer Architecture**]  <span style="float:right;"> <i>(present)</i> </span>
+**Student Teach Assitant \|**  [**Computer Architecture**]  <span style="float:right;"> <i>(Aug 2024 - May 2025)</i> </span>
 
 **Summer Associate \|** [**JP Morgan Chase & Co.**]   <span style="float:right;"> <i>(Jun 2024 - Aug 2024)</i> </span>
 

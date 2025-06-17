@@ -7,11 +7,13 @@ title: Projects
 
 ## Electrical projects
 
-**Ball Balancing PID Platform** [**In Progress**] 
+**Ball Balancing PID Platform**
 
 Balancing a ball on a surface is a classic control problem that involves detecting the ball’s position in real time and adjusting the platform’s orientation accordingly. In this project, we built a two-degree-of-freedom ball balancing system using a Raspberry Pi 4, RP2040 microcontroller, servo motors, and a custom platform made from acrylic and 3D-printed parts.
 
 The Pi Camera captures the ball’s position in real time, and the Raspberry Pi uses a computer vision algorithm to track the ball's movement. The position data is then sent to the RP2040 through UART. The microcontroller runs a PID control algorithm that calculates the servo angles needed to tilt the platform and stabilize the ball. The ball’s position is also displayed in real time on a VGA screen as visual feedback. By isolating the x and y directions, we successfully balanced a 1-inch diameter ball on the platform.
+
+Github: <a href="https://ece4760.github.io/Projects/Spring2025/tll68_sy625/index.html">Ball Balancer</a>
 
 ![Ball balancer](images/balancer.png)
 
@@ -26,6 +28,7 @@ Github: <a href="https://pages.github.coecis.cornell.edu/ece3140-sp2023/jnl77-sy
 
 ![Tideclock](/images/tideclock2.png)
 
+
 **Embedded Mahjong Player**
 
 Mahjong is a type of Chinese board game where four players are required for a game. Often times, people find it hard to always find four people for the game, often there are only three. Therefore, it became a problem that a fourth player is needed. To solve this problem, our team worked on the embedded mahjong player, so that it can play along as the extra player to help start the game.
@@ -36,6 +39,7 @@ Github: <a href="https://github.com/colonel-aureliano/Embedded-Mahjong-Bot">Embe
 
 ![Mahjong](/images/mahjong.jpeg)
 
+
 **Theater Actor Auto Follow Light System** [**In Progress**]
 
 In theater productions, a follow spot is often used to highlight the lead actor on stage. Traditionally, this spotlight is manually controlled, which can be labor-intensive and may not always keep up with fast-moving performances. To solve this problem, our team is developing an automated actor tracking spotlight system that can follow the actor in real-time without human control.
@@ -43,6 +47,12 @@ In theater productions, a follow spot is often used to highlight the lead actor 
 Our project uses a Raspberry Pi and infrared tracking techniques to detect the actor's position on stage. The actor is equipped with an infrared-emitting marker, and sensors or Pi-compatible NoIR cameras are used to detect the IR signal. The position data is then processed to calculate the actor’s location and send commands to a motorized spotlight to pan and tilt accordingly. This system aims to improve spotlight accuracy and reduce manual operation in live theater environments.
 
 ![Auto Following Light](/images/follow.png)
+
+
+**Wetland Flux Chamber** [**In Progress**]
+Accurate, long-duration field measurements of methane (CH₄) and carbon dioxide (CO₂) flux are essential for environmental monitoring and climate policy. In this project, we developed a low-power embedded data logger for use in portable flux chambers, enabling autonomous environmental sensing over multi-day deployments.
+
+The system is built around a Raspberry Pi Pico and integrates both a digital SCD30 sensor (for CO₂, temperature, and humidity) and an analog methane sensor via ADC. Sensor data is timestamped using the onboard RTC and logged to a microSD card in CSV format using the FatFs library. To reduce power consumption, the Pico enters a sleep state between logging cycles and wakes on hardware timer alarms. The entire firmware was written in C using protothreads and deployed across 10 field-ready chamber prototypes designed for use in wetlands, agricultural fields, and manure sites.
 
 <br>
 

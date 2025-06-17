@@ -7,15 +7,20 @@ title: Experiences and Activities
 
 ## Professional Experiences
 
-**Engineering Intern @** [**JPMorgan Chase & Co - Global Real Estate**] 
-(_Jun 2023_ – _Aug 2023_)
-- Conducted data analysis of the JPMC retail portfolio’s electrical and solar payback results via Excel, which enabled the department to improve their development on solar systems moving forward.
-- Created dashboard for analysis and visualization of employee and project management data using Tableau and Alteryx skills, creating an optimized model and process for resource management.
+**Electrical Engineering Intern @** [**Atkinson Center for a Sustainable Future**] 
+(_Jun 2025_ – _Aug 2025_)
+- Developed a low-power data logger on Raspberry Pi Pico to autonomously record methane (CH₄), carbon dioxide (CO₂), temperature, and humidity in field chambers.
+- Integrated the sensors and SD card as a system and implemented sleep/wake cycles and sensor timing controls to optimize power efficiency for portable, rugged environmental monitoring systems.
 
 **Summer Associate Intern @** [**JPMorgan Chase & Co - Headquarter Development**] 
 (_Jun 2024_ – _Aug 2024_)
 - Conducted data analysis of the utilization for JPMC Manhattan Midtown campus conference room systems via Excel, which enabled the new renovation project of the main headquarter to adjust the meeting rooms needs for the employees.
 - Planned events for employee reception and networking event, and created graphics for the members that contributed to the recent great project of the department.
+
+**Engineering Intern @** [**JPMorgan Chase & Co - Global Real Estate**] 
+(_Jun 2023_ – _Aug 2023_)
+- Conducted data analysis of the JPMC retail portfolio’s electrical and solar payback results via Excel, which enabled the department to improve their development on solar systems moving forward.
+- Created dashboard for analysis and visualization of employee and project management data using Tableau and Alteryx skills, creating an optimized model and process for resource management.
 
 <br>
 
@@ -27,7 +32,7 @@ title: Experiences and Activities
 - Synthesized graphing algorithms on Intel FPGAs using High-Level Synthesis and RTL Designs, enabled direct communication between Avalon Memory Mapped System and AXI4.
 
 **Computer Architecture Course Teaching Assistant @** [**Cornell University - College of Engineering**] 
-(_Aug 2024_ – _Present_)
+(_Aug 2024_ – _May 2025_)
 - Supported instruction in core computer architecture topics including pipelining, memory hierarchy, implemenetation optimization, and instruction-level parallelism.
 - Provided guidance on lab assignments involving assembly programming, cache simulations, and performance analysis.
 
@@ -47,7 +52,7 @@ title: Experiences and Activities
 ## Extracurriculars
 
 **Publicity Director @** [**IEEE Student Chapter @ Cornell University**] 
-(_Sep 2022_ – _Present_)
+(_Sep 2022_ – _May 2025_)
 - Maintained relationships among students and faculty in ECE and provided help on academic topics.
 - Managed IEEE’s public imaging by designing graphics and marketing material over website and social media.
 
