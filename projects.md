@@ -8,6 +8,7 @@ title: Projects
 ## Electrical projects
 
 **Wetland Flux Chamber** [**In Progress**]
+
 Accurate, long-duration field measurements of methane (CH₄) and carbon dioxide (CO₂) flux are essential for environmental monitoring and climate policy. In this project, we developed a low-power embedded data logger for use in portable flux chambers, enabling autonomous environmental sensing over multi-day deployments.
 
 The system is built around a Raspberry Pi Pico and integrates both a digital SCD30 sensor (for CO₂, temperature, and humidity) and an analog methane sensor via ADC. Sensor data is timestamped using the onboard RTC and logged to a microSD card in CSV format using the FatFs library. To reduce power consumption, the Pico enters a sleep state between logging cycles and wakes on hardware timer alarms. The entire firmware was written in C using protothreads and deployed across 10 field-ready chamber prototypes designed for use in wetlands, agricultural fields, and manure sites.
@@ -27,6 +28,7 @@ Github: <a href="https://ece4760.github.io/Projects/Spring2025/tll68_sy625/index
 ![Ball balancer](images/balancer.png)
 
 **Weather Clock Project**
+
 This project is a Wi-Fi-connected weather and temperature display system built using an STM32F103 microcontroller, a ESP32-C2 wifi board, and an ST7735 LCD. The ESP32-C2 connects to the internet, retrieves live weather and time data from OpenWeatherMap, and sends a compact summary—location, weather condition, temperature, and timestamp—via UART communication with the AT commands to the STM32. The STM32 parses the data and renders it on the LCD with accompanying weather icons and digital clock output.
 
 The system also features an onboard NTC thermistor for ambient temperature sensing via ADC, and an MPU6050 accelerometer connected over I2C to detect device orientation. Based on tilt, the screen automatically rotates its contents for better viewing. This project integrates wireless communication, USART communication, I2C sensor interfacing, ADC measurement, DMA for accelerated data transfer and SPI-based graphical output in a compact, responsive embedded system.
