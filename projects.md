@@ -9,13 +9,23 @@ title: Projects
 
 **Wetland Flux Chamber** [**In Progress**]
 
-Accurate, long-duration field measurements of methane (CH₄) and carbon dioxide (CO₂) flux are essential for environmental monitoring and climate policy. In this project, we developed a low-power embedded data logger for use in portable flux chambers, enabling autonomous environmental sensing over multi-day deployments.
+Accurate, long-duration field measurements of methane (CH₄) and carbon dioxide (CO₂) flux are essential for environmental monitoring and climate policy. In this project, we developed a low-power embedded data logger for use in portable flux chambers, enabling autonomous environmental sensing over multi-day deployments. The system is built around a Raspberry Pi Pico and integrates both a digital SCD30 sensor (for CO₂, temperature, and humidity) and an analog methane sensor via ADC. Sensor data is timestamped using the onboard RTC and logged to a microSD card in CSV format using the FatFs library. To conserve power, the Pico enters a sleep state between logging cycles and wakes on hardware timer alarms. All firmware was written in C using protothreads and tested across 10 field-ready chamber prototypes for deployment in wetlands, agricultural fields, and manure management sites.
 
-The system is built around a Raspberry Pi Pico and integrates both a digital SCD30 sensor (for CO₂, temperature, and humidity) and an analog methane sensor via ADC. Sensor data is timestamped using the onboard RTC and logged to a microSD card in CSV format using the FatFs library. To reduce power consumption, the Pico enters a sleep state between logging cycles and wakes on hardware timer alarms. The entire firmware was written in C using protothreads and deployed across 10 field-ready chamber prototypes designed for use in wetlands, agricultural fields, and manure sites.
+To support long-term stability and field reliability, we designed a custom PCB that consolidates the entire electronics system—power management, sensors, storage, and interface connections—into a compact, robust layout. We implemented watchdog timers and error recovery routines to ensure the logger could autonomously recover from temporary faults such as I2C hangs or sensor communication errors. These improvements significantly enhanced system uptime, allowing multi-day logging without interruption. The final system reflects a complete embedded solution, combining environmental sensing, ultra-low power operation, resilient firmware, and hardware integration suitable for real-world environmental research.
 
 Github: <a href="https://cornellfluxchamber.github.io/">Cornell Flux Chamber</a>
 
 ![Wetland Flux Chamber](/images/flux.png)
+
+**Smart Dorm IOT System**
+
+This project is a Wi-Fi-connected smart dorm automation system built using a combination of ESP32 and Raspberry Pi Pico W microcontrollers. It integrates multiple subsystems: a AHT20 temperature/humidity sensor-controlled fan (ESP32), a distance-based light control system (Pico W), a PIR montion sensor-controlled signal system of outdoor status and a magnetic door sensor (Pico W) that detects whether the bathroom door is open or closed, indicating occupancy. All sensor data is transmitted over MQTT via Wi-Fi to a centralized broker, allowing for remote monitoring and control. Devices subscribe to control topics and publish real-time status updates, enabling seamless interaction through a custom web-based dashboard with button controls and state indicators.
+
+Sensors are interfaced using the I2C protocol, and PWM is used to drive fan and light switches for precise control. In addition to sensor-actuator loops, the system includes a room status display: a display outside the room signals occupancy or availability based on motion detection and manual override. Together, these components form a cohesive embedded system that demonstrates wireless communication, MQTT messaging, I2C and PWM peripherals, and real-time web integration—designed specifically for convenience, automation, and energy awareness in a college dorm setting.
+
+Github: <a href="https://github.com/Rachelyan666/smart_dorm_iot">Smart Dorm IOT System</a>
+
+![Smart Dorm IOT](/images/dormiot.png)
 
 **Ball Balancing PID Platform**
 
@@ -38,9 +48,19 @@ Github: <a href="https://github.com/Rachelyan666/weather_clock">Weather Clock</a
 
 ![Weather Clock](images/weather_clock.png)
 
+**Kitchen Alarm System**
+
+This project implements a real-time gas monitoring and alert system using FreeRTOS ported to the STM32F103C8T6 microcontroller. We manually integrated FreeRTOS from source and configured it to run on the STM32 platform, enabling structured multitasking for multiple sensors and peripherals. The system reads from analog gas sensors—MQ2 and MQ9B—to detect smoke, carbon monoxide (CO), and methane (CH₄), along with an additional ADC-based temperature sensor. Each sensor is managed by its own FreeRTOS task, allowing efficient and predictable scheduling of sampling, threshold checks, and actuator responses. A buzzer provides immediate local alerts for hazardous gas levels, and a OLED display (connected via I2C) displays real-time sensor data.
+
+All sensors communicate through STM32's ADC subsystem, and critical alerts are sent remotely via MQTT using an ESP8266 Wi-Fi module. When gas or temperature levels exceed safe limits, the system publishes warning messages to a phone-based IoT application, allowing for timely remote intervention. FreeRTOS ensures deterministic behavior even under load, handling ADC reads, alarm triggering, display updates, and MQTT communication concurrently. This project demonstrates a robust embedded system that combines RTOS task management, analog sensing, I2C interfacing, and cloud connectivity for real-time environmental safety and monitoring.
+
+Github: <a href="https://github.com/Rachelyan666/kitchen_alarm">Kitchen Alarm System</a>
+
+![Smart Dorm IOT](/images/kitchen.png)
+
 **Tide displayer**
 
-In general, our system works by sending tidal data from the FRDM-KL46Z board using skills we learned this semester, and then use the arduino to receive and process the data, which finally controlls the LED strip to turn on and off showcasing the tide.
+In general, our system works by sending tidal data from the NXP FRDM-KL46Z board using skills we learned this semester, and then use the arduino to receive and process the data, which finally controlls the LED strip to turn on and off showcasing the tide.
 
 In this project, we accomplished and practices a lot of skills that we learn in this class. For example, in hardware, we practiced wire soldering a lot in the project. Then, in the FRDM-KL46Z code, we accomplished sending data using UART serial communication, as well as the real-time scheduling that we learned by the end of the semester. Finally, in Arduino code, we accomplished receiving data in UART, as well as data decode and other programming skills.
 
@@ -93,6 +113,6 @@ The project explores classic game AI techniques including Minimax search, Alpha-
 
 Users can play against the AI in an interactive GUI and toggle between different levels of difficulty. The project also includes testing infrastructure and tools for analyzing AI performance over multiple games.
 
-Github: <a href="https://github.com/Rachelyan666/alien_shooting">AI Ultimate tic-tac-toe player</a>
+Github: <a href="https://github.com/Rachelyan666/Ultimate-tic-tac-toe">AI Ultimate tic-tac-toe player</a>
 
 ![AI tic-tac-toe player](/images/uttt.png)
