@@ -2,7 +2,7 @@
 title: Recipes
 layout: collection
 permalink: /recipes/
-collection: _recipes
+collection: recipes
 entries_layout: grid
 ---
 
