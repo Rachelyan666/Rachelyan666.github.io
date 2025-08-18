@@ -7,7 +7,7 @@ title: Projects
 
 ## Electrical projects
 
-**Wetland Flux Chamber** [**In Progress**]
+**Wetland Flux Chamber** 
 
 Accurate, long-duration field measurements of methane (CH₄) and carbon dioxide (CO₂) flux are essential for environmental monitoring and climate policy. In this project, we developed a low-power embedded data logger for use in portable flux chambers, enabling autonomous environmental sensing over multi-day deployments. The system is built around a Raspberry Pi Pico and integrates both a digital SCD30 sensor (for CO₂, temperature, and humidity) and an analog methane sensor via ADC. Sensor data is timestamped using the onboard RTC and logged to a microSD card in CSV format using the FatFs library. To conserve power, the Pico enters a sleep state between logging cycles and wakes on hardware timer alarms. All firmware was written in C using protothreads and tested across 10 field-ready chamber prototypes for deployment in wetlands, agricultural fields, and manure management sites.
 
@@ -92,6 +92,16 @@ Our project uses a Raspberry Pi and infrared tracking techniques to detect the a
 <br>
 
 ## Software Projects
+
+**Stardew Chatbot**
+
+This project implements a conversational assistant for game Stardew Valley, built using Python, the Autograms framework, and OpenAI’s API. The chatbot provides players with quick access to in-game knowledge through natural dialogue, acting as a guide for important mechanics. It covers areas such as villager gifts (including universal likes and loves), money-making strategies, fishing information, and crafting or cooking recipes, allowing players to ask questions and receive detailed answers in real time.
+
+The project demonstrates techniques for building interactive dialogue systems, combining structured prompts with domain-specific knowledge retrieval. Users can query the bot in different modes, such as calculating required resources to reach a gold target, listing available fish given in-game conditions, or identifying how to obtain recipes. The modular design makes the chatbot extensible, showcasing practical integration of game data with conversational AI for an engaging user experience.
+
+Github: <a href="https://github.com/Rachelyan666/stardew_chatbot#">Stardew Bot</a>
+
+![interpreter](/images/stardewbot.png)
 
 **LTL interpreter**
 
