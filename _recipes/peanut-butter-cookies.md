@@ -1,8 +1,8 @@
 ---
 title: "Peanut Butter Cookies"
 image: 
-  path: /images/peanut-butter-cookies-lg.jpg
-  thumbnail: /images/peanut-butter-cookies-400x200.jpg
+  path: /images/weather_clock.png
+  thumbnail: /images/weather_clock_s.png
   caption: "Photo from [Pexels](https://www.pexels.com)"
 ---
 
