@@ -1,5 +1,6 @@
 ---
 title: "Handwriting Recognizer"
+date: 2022-12-17
 categories:
   - Software
 tags:

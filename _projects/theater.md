@@ -1,5 +1,6 @@
 ---
 title: "Theater Actor Auto Follow Light System"
+date: 2022-12-17
 categories:
   - Electrical
 tags:

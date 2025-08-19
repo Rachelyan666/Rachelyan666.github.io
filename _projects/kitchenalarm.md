@@ -1,6 +1,6 @@
 ---
 title: "Kitchen Alarm System"
-date: 2025-08-10
+date: 2025-06-10
 categories:
   - Electrical
 tags:

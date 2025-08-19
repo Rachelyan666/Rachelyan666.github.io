@@ -1,6 +1,6 @@
 ---
 title: "Weather Clock Project"
-date: 2025-06-12
+date: 2025-08-12
 categories:
   - Electrical
 tags:
