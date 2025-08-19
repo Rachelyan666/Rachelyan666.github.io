@@ -21,4 +21,5 @@ The system also features an onboard NTC thermistor for ambient temperature sensi
 
 Github: <a href="https://github.com/Rachelyan666/weather_clock">Weather Clock</a>
 
-![Weather Clock](images/weather_clock.png)
+![Weather Clock](/images/weather_clock.png)
+

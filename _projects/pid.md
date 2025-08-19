@@ -21,4 +21,4 @@ The Pi Camera captures the ball’s position in real time, and the Raspberry Pi 
 
 Github: <a href="https://ece4760.github.io/Projects/Spring2025/tll68_sy625/index.html">Ball Balancer</a>
 
-![Ball balancer](images/balancer.png)
+![Ball balancer](/images/balancer.png)
