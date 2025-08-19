@@ -284,3 +284,14 @@
     max-width: $main-sidebar-max-width;
   }
 }
+
+.page-wrapper .page-header {
+  grid-column: 1 / -1; // if using CSS Grid
+  width: 100%; // works for flex/floats too
+  text-align: center; // centers the title
+}
+
+.page-wrapper .page-header .page-title {
+  margin: 0 auto;
+  text-align: inherit;
+}
