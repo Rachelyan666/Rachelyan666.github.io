@@ -1,5 +1,11 @@
 ---
 title: "Kitchen Alarm System"
+categories:
+  - Electrical
+tags:
+  - Embedded
+  - Networks
+  - FreeRTOS
 image: 
   path: /images/kitchen.png
   thumbnail: /images/kitchen_s.png

@@ -1,5 +1,10 @@
 ---
 title: "Smart Dorm IOT System"
+categories:
+  - Electrical
+tags:
+  - Embedded
+  - Networks
 image: 
   path: /images/dormiot.png
   thumbnail: /images/dormiot_s.png

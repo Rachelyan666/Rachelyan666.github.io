@@ -1,5 +1,12 @@
 ---
 title: "Embedded Mahjong Player"
+categories:
+  - Electrical
+tags:
+  - Embedded
+  - Linux
+  - ML
+  - CV
 image: 
   path: /images/mahjong.jpeg
   thumbnail: /images/mahjong_s.jpeg

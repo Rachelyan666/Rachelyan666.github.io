@@ -1,5 +1,10 @@
 ---
 title: "LTL interpreter"
+categories:
+  - Software
+tags:
+  - Algorithm
+  - OCaml
 image: 
   path: /images/buchi.png
   thumbnail: /images/buchi_s.png

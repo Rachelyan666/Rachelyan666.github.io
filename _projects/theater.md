@@ -1,5 +1,11 @@
 ---
 title: "Theater Actor Auto Follow Light System"
+categories:
+  - Electrical
+tags:
+  - Embedded
+  - Linux
+  - Research
 image: 
   path: /images/follow.png
   thumbnail: /images/follow_s.png

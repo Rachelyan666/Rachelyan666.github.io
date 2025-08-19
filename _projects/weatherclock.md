@@ -1,5 +1,10 @@
 ---
 title: "Weather Clock Project"
+categories:
+  - Electrical
+tags:
+  - Embedded
+  - Networks
 image: 
   path: /images/weather_clock.png
   thumbnail: /images/weather_clock_s.png

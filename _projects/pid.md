@@ -1,5 +1,11 @@
 ---
 title: "Ball Balancing PID Platform"
+categories:
+  - Electrical
+tags:
+  - Embedded
+  - PID
+  - CV
 image: 
   path: /images/balancer.png
   thumbnail: /images/balancer_s.png

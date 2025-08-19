@@ -1,5 +1,9 @@
 ---
 title: "Tide Displayer"
+categories:
+  - Electrical
+tags:
+  - Embedded
 image: 
   path: /images/tideclock2.png
   thumbnail: /images/tideclock2_s.png

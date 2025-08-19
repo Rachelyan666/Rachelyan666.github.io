@@ -1,5 +1,10 @@
 ---
 title: "Stardew Chatbot"
+categories:
+  - Software
+tags:
+  - AI
+  - python
 image: 
   path: /images/stardewbot.png
   thumbnail: /images/stardewbot_s.png

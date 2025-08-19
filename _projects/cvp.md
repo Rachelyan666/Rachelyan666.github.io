@@ -1,5 +1,10 @@
 ---
 title: "Handwriting Recognizer"
+categories:
+  - Software
+tags:
+  - ML
+  - pyTorch
 image: 
   path: /images/stage6.png
   thumbnail: /images/stage6_s.png

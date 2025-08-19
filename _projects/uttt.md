@@ -1,5 +1,10 @@
 ---
 title: "Ultimate Tic-Tac-Toe AI Player"
+categories:
+  - Software
+tags:
+  - AI
+  - python
 image: 
   path: /images/uttt.png
   thumbnail: /images/uttt_s.png

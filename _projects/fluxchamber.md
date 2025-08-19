@@ -1,5 +1,11 @@
 ---
 title: "Wetland Flux Chamber"
+categories:
+  - Electrical
+tags:
+  - Embedded
+  - Sensor
+  - PCB
 image: 
   path: /images/flux.png
   thumbnail: /images/flux_s.png
