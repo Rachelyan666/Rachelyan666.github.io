@@ -24,9 +24,10 @@ Currently, I am a Master student, and hope to work in the industry mainly on emb
 
 - **Software Programming Languages**: Python, Java, C++, Ocaml, R, HTML/CSS/Javascript
 - **Hardware Programming Languages**: Verilog, SystemVerilog, Assembly, C
+- **Embedded Systems**: STM32F1, NXP-FRDM, ESP32, Raspberry Pi, TI, UART/SPI/I2C, GPIO, HTTPS/MQTT, CAN, FreeRTOS
 - **Scripting** : Bash
-- **Operating Systems**: Ubuntu, RedHat, Raspberry Pi
-- **CAD**: Cadence Virtuoso
+- **Operating Systems**: Linux, Ubuntu, RedHat, Raspberry Pi
+- **CAD**: Cadence Virtuoso (VLSI), KiCAD (PCB)
 - **Data Science Tools**: Tableau, Alteryx, Stata
 - **Other Software**: Microsoft Office, Generative AIs
 <br>
@@ -37,7 +38,7 @@ Currently, I am a Master student, and hope to work in the industry mainly on emb
 
 **Master of Engineering Project: \|**  [**Theater Actor Auto Follow Light System**]  <span style="float:right;"> <i>(present)</i> </span>
 
-**Internship Project: \|**  [**Wetland Flux Chamber**]  <span style="float:right;"> <i>(present)</i> </span>
+**Internship Project: \|**  [**Wetland Flux Chamber**]  <span style="float:right;"> <i>(Jun 2025 - Aug 2025)</i> </span>
 
 **Student Teach Assitant \|**  [**Computer Architecture**]  <span style="float:right;"> <i>(Aug 2024 - May 2025)</i> </span>
 
