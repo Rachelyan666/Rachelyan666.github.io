@@ -98,8 +98,8 @@ defaults:
       share: true
   # Recipe defaults
   - scope:
-      path: "_recipes"
-      type: recipes
+      path: "_projects"
+      type: projects
     values:
       layout: post
       comments: true

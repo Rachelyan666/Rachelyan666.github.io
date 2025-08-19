@@ -6,7 +6,7 @@ image:
   caption: "Follow conceptual photo"
 ---
 
-**In Progress**
+**In Progress** Tracking Actor's place based on embedded systems.
 
 In theater productions, a follow spot is often used to highlight the lead actor on stage. Traditionally, this spotlight is manually controlled, which can be labor-intensive and may not always keep up with fast-moving performances. To solve this problem, our team is developing an automated actor tracking spotlight system that can follow the actor in real-time without human control.
 
