@@ -58,7 +58,7 @@ Github: <a href="https://github.com/Rachelyan666/kitchen_alarm">Kitchen Alarm Sy
 
 ![Smart Dorm IOT](/images/kitchen.png)
 
-**Tide displayer**
+**Tide Displayer**
 
 In general, our system works by sending tidal data from the NXP FRDM-KL46Z board using skills we learned this semester, and then use the arduino to receive and process the data, which finally controlls the LED strip to turn on and off showcasing the tide.
 
