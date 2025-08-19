@@ -1,5 +1,6 @@
 ---
 title: "Tide Displayer"
+date: 2023-05-13
 categories:
   - Electrical
 tags:

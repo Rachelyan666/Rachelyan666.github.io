@@ -1,5 +1,6 @@
 ---
 title: "Embedded Mahjong Player"
+date: 2024-05-15
 categories:
   - Electrical
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Ultimate Tic-Tac-Toe AI Player"
+date: 2024-12-17
 categories:
   - Software
 tags:

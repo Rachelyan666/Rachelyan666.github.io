@@ -1,5 +1,6 @@
 ---
 title: "LTL interpreter"
+date: 2023-12-18
 categories:
   - Software
 tags:

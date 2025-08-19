@@ -1,5 +1,6 @@
 ---
 title: "Wetland Flux Chamber"
+date: 2025-08-15
 categories:
   - Electrical
 tags:

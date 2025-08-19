@@ -1,5 +1,6 @@
 ---
 title: "Stardew Chatbot"
+date: 2025-08-18
 categories:
   - Software
 tags:

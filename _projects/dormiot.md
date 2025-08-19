@@ -1,5 +1,6 @@
 ---
 title: "Smart Dorm IOT System"
+date: 2025-07-15
 categories:
   - Electrical
 tags:

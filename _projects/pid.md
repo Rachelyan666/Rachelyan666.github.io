@@ -1,5 +1,6 @@
 ---
 title: "Ball Balancing PID Platform"
+date: 2025-05-20
 categories:
   - Electrical
 tags:
